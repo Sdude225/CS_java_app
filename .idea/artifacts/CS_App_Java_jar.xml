@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CS_App_Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS_App_Java_jar</output-path>
+    <root id="archive" name="CS_App_Java.jar">
+      <element id="module-output" name="CS_App_Java" />
+    </root>
+  </artifact>
+</component>
